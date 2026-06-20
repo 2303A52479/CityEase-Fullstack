@@ -1,1 +1,1 @@
-# CityEase-Fullstack
+# CityEase-FullStack
